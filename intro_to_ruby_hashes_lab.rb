@@ -1,5 +1,6 @@
 def new_hash
   hash = {hey}
+  hash["hey"]
 end
 
 def actor
