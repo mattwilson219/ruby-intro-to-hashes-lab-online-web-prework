@@ -1,5 +1,5 @@
 def new_hash
-  hash = {"hey"}
+  hash => {"hey"}
   hash["hey"]
 end
 
